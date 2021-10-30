@@ -1,0 +1,20 @@
+{
+  "name": "dva-rn-tools",
+  "version": "1.0.0",
+  "description": "react native+dva",
+  "main": "src/index.js",
+  "repository": "https://github.com/phant0m4o4/dva-rn-tools.git",
+  "author": "phant0m4o4",
+  "license": "MIT",
+  "dependencies": {
+    "@react-navigation/native": "^6.0.6",
+    "dva-core": "^2.0.4",
+    "dva-immer": "^1.0.0",
+    "dva-loading": "^3.0.22",
+    "react-redux": "^7.2.6",
+    "redux": "^4.1.2"
+  },
+  "devDependencies": {
+    "redux-logger": "^3.0.6"
+  }
+}
